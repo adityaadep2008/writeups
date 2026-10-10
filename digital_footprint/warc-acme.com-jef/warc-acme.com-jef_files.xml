@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="acme.com-jef-2016-02-10-5a7339a6-00000.warc.gz" source="original">
+    <mtime>1455325054</mtime>
+    <size>5368710329</size>
+    <md5>aea4ba780246555c4fcab319a8c06e8c</md5>
+    <crc32>874cd05b</crc32>
+    <sha1>82537f82854a445ceee4d6785fe0e1d55447a403</sha1>
+    <format>Web ARChive GZ</format>
+    <private>true</private>
+  </file>
+  <file name="acme.com-jef-2016-02-10-5a7339a6-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>acme.com-jef-2016-02-10-5a7339a6-00000.warc.gz</original>
+    <mtime>1693497437</mtime>
+    <size>5425709</size>
+    <md5>aa55524c9300f3fe318d2d343ab580e1</md5>
+    <crc32>cd390b81</crc32>
+    <sha1>d6036eb673e284f68beba7c336ee7e648608c66c</sha1>
+    <private>true</private>
+  </file>
+  <file name="acme.com-jef-2016-02-10-5a7339a6-00001.warc.gz" source="original">
+    <mtime>1455325932</mtime>
+    <size>4609197411</size>
+    <md5>6b0b56f044ec50cc182115782b18cd14</md5>
+    <crc32>8fdd7172</crc32>
+    <sha1>f290779c94c6858d26da60d0fadb079026b63867</sha1>
+    <format>Web ARChive GZ</format>
+    <private>true</private>
+  </file>
+  <file name="acme.com-jef-2016-02-10-5a7339a6-00001.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>acme.com-jef-2016-02-10-5a7339a6-00001.warc.gz</original>
+    <mtime>1693497696</mtime>
+    <size>2913669</size>
+    <md5>e13aa41fcf51dfe9a444c0257ad0cf7a</md5>
+    <crc32>3ae4416e</crc32>
+    <sha1>7241924103ad1e3002c0ec2a4c85fa3bb2f14a18</sha1>
+    <private>true</private>
+  </file>
+  <file name="acme.com-jef-2016-02-10-5a7339a6-meta.warc.gz" source="original">
+    <mtime>1455325981</mtime>
+    <size>4158966</size>
+    <md5>4c3e064bece95be57ff92bbc86828757</md5>
+    <crc32>260d8e80</crc32>
+    <sha1>6e975de75b045eafd2d802de57366f253093ff9c</sha1>
+    <format>Web ARChive GZ</format>
+    <private>true</private>
+  </file>
+  <file name="acme.com-jef-2016-02-10-5a7339a6-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>acme.com-jef-2016-02-10-5a7339a6-meta.warc.gz</original>
+    <mtime>1693497700</mtime>
+    <size>47</size>
+    <md5>cfa2c9b66ac77c9672df176e32c63c7e</md5>
+    <crc32>707f38fc</crc32>
+    <sha1>a695be5730b74e1e5366d876f047df3600fe9e80</sha1>
+    <private>true</private>
+  </file>
+  <file name="acme.com-jef-2016-02-10-5a7339a6.cdx" source="original">
+    <mtime>1455325959</mtime>
+    <size>41815913</size>
+    <md5>67a4e723631b3f32018eb92614312291</md5>
+    <crc32>036fed35</crc32>
+    <sha1>5c8d28dd3cd029dbf5f909d656a10d9d4777b662</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="all_start_urls" source="original">
+    <mtime>1455324061</mtime>
+    <size>21</size>
+    <md5>2231e157359d3afa8905d615068c711a</md5>
+    <crc32>e52e9e0f</crc32>
+    <sha1>02b1f74e50bcfba89bde2cf744a95af2cf3ae96a</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="concurrency" source="original">
+    <mtime>1455325978</mtime>
+    <size>1</size>
+    <md5>c81e728d9d4c2f636f067f89cc14862c</md5>
+    <crc32>1ad5be0d</crc32>
+    <sha1>da4b9237bacccdf19c0760cab7aec4a8359010b0</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="cookies.txt" source="original">
+    <mtime>1455325935</mtime>
+    <size>16531</size>
+    <md5>ed1151f4f7118a3f002746320b18942b</md5>
+    <crc32>666122d9</crc32>
+    <sha1>6399975806fdd27886d3e073c04b2c3db05d0ce9</sha1>
+    <format>Text</format>
+    <private>true</private>
+  </file>
+  <file name="delay" source="original">
+    <mtime>1455325057</mtime>
+    <size>1</size>
+    <md5>cfcd208495d565ef66e7dff9f98764da</md5>
+    <crc32>f4dbdf21</crc32>
+    <sha1>b6589fc6ab0dc82cf12099d1c2d40ab994e8410c</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="dupes_db/data.mdb" source="original">
+    <mtime>1455325994</mtime>
+    <size>21204992</size>
+    <md5>4bf7832db426a2dd86e2f6a63f45efaf</md5>
+    <crc32>6f9d98f4</crc32>
+    <sha1>1feae4ee147ea041761f2508bf145afe75886376</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="dupes_db/lock.mdb" source="original">
+    <mtime>1455325985</mtime>
+    <size>8192</size>
+    <md5>e3cfb81035b0e5924ca0d13af1cb6cc3</md5>
+    <crc32>6013d69d</crc32>
+    <sha1>5c4fb91c0a9f183a1c5bce1f7cf65cbf3bced17b</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="id" source="original">
+    <mtime>1455325061</mtime>
+    <size>32</size>
+    <md5>c0ac18246dae3779c66196406ecd38ef</md5>
+    <crc32>37dac4ad</crc32>
+    <sha1>67828d4cb308283641f7f6242048e019605862c8</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="ignores" source="original">
+    <mtime>1455324052</mtime>
+    <size>35</size>
+    <md5>6b5902d7e0cf6ab5aeb0d71620160905</md5>
+    <crc32>2b66dee3</crc32>
+    <sha1>4fbbccc747a26b0b2e1f88ba1b0de3712f992ed2</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="igoff" source="original">
+    <mtime>1455325937</mtime>
+    <size>0</size>
+    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <crc32>00000000</crc32>
+    <sha1>da39a3ee5e6b4b0d3255bfef95601890afd80709</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="igsets" source="original">
+    <mtime>1455325939</mtime>
+    <size>7</size>
+    <md5>c299223d75e4cb1b935243eb7b74f511</md5>
+    <crc32>9483547f</crc32>
+    <sha1>1b6892de754e99ee31f020151f9c046735b14f22</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="max_content_length" source="original">
+    <mtime>1455324030</mtime>
+    <size>2</size>
+    <md5>6bb61e3b7bce0931da574d19d1d82c88</md5>
+    <crc32>302d482a</crc32>
+    <sha1>7984b0a0e139cabadb5afc7756d473fb34d23819</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="skipped_max_content_length" source="original">
+    <mtime>1455325059</mtime>
+    <size>0</size>
+    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <crc32>00000000</crc32>
+    <sha1>da39a3ee5e6b4b0d3255bfef95601890afd80709</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="skipped_videos" source="original">
+    <mtime>1455324056</mtime>
+    <size>0</size>
+    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <crc32>00000000</crc32>
+    <sha1>da39a3ee5e6b4b0d3255bfef95601890afd80709</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="start_url" source="original">
+    <mtime>1455325963</mtime>
+    <size>20</size>
+    <md5>54929af22e767608ebd1a9c287323783</md5>
+    <crc32>f44a72e1</crc32>
+    <sha1>9203181673fd769c8296950273afdeb0f113e0a8</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="video" source="original">
+    <mtime>1455324053</mtime>
+    <size>0</size>
+    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <crc32>00000000</crc32>
+    <sha1>da39a3ee5e6b4b0d3255bfef95601890afd80709</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="warc-acme.com-jef.cdx.gz" source="original">
+    <mtime>1693497725</mtime>
+    <size>8069237</size>
+    <md5>7e2eedd927829561c3910a19565177a3</md5>
+    <crc32>0a53f6fb</crc32>
+    <sha1>ae385ed2bafb1f8598aea60728585a4ddcf6f047</sha1>
+    <format>Item CDX Index</format>
+    <private>true</private>
+  </file>
+  <file name="warc-acme.com-jef.cdx.idx" source="original">
+    <mtime>1693497725</mtime>
+    <size>6908</size>
+    <md5>21cf9e589c9304e4d6e915b64a7ec32e</md5>
+    <crc32>221c258f</crc32>
+    <sha1>9a7371a1c119025e77f890e98b589bf17954844b</sha1>
+    <format>Item CDX Meta-Index</format>
+    <private>true</private>
+  </file>
+  <file name="warc-acme.com-jef_archive.torrent" source="metadata">
+    <btih>ed1269b3034f05a2343730d372e21b3a079b5e39</btih>
+    <mtime>1693497728</mtime>
+    <size>56332</size>
+    <md5>309eca11b916d73939066ad5d5727aa0</md5>
+    <crc32>f8644644</crc32>
+    <sha1>d93fa033462d018f732d0f646f555b1299b45c91</sha1>
+    <format>Archive BitTorrent</format>
+    <private>true</private>
+  </file>
+  <file name="warc-acme.com-jef_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e159f830c6ca6788ef76578601577bce</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="warc-acme.com-jef_meta.sqlite" source="original">
+    <mtime>1455326038</mtime>
+    <size>27648</size>
+    <format>Metadata</format>
+    <md5>34fd7800014922a97f713b7ba60165bf</md5>
+    <crc32>20611212</crc32>
+    <sha1>07ede0a56a94b3a01906f6b42a007516ab727fa7</sha1>
+  </file>
+  <file name="warc-acme.com-jef_meta.xml" source="original">
+    <mtime>1769682589</mtime>
+    <size>913</size>
+    <format>Metadata</format>
+    <md5>5a708b37e7b50d06310d16bcb078bd3e</md5>
+    <crc32>6226f7c2</crc32>
+    <sha1>134842e76775b0d2af7c2f2ca1a5410286306e26</sha1>
+  </file>
+  <file name="wpull.db" source="original">
+    <mtime>1455325976</mtime>
+    <size>53747712</size>
+    <md5>a16d7b427f5d43f7eedff5f03b0986b1</md5>
+    <crc32>2b90d84c</crc32>
+    <sha1>ba60721d62552ba495d21b9bce5230060c6c89d9</sha1>
+    <format>Unknown</format>
+    <private>true</private>
+  </file>
+  <file name="wpull.log" source="original">
+    <mtime>1455324049</mtime>
+    <size>58672438</size>
+    <md5>2973a9ffedfda747d884e7edcfa14372</md5>
+    <crc32>b3511997</crc32>
+    <sha1>a39272342bc5f433fb84a0a5ac5ddcf1649fedce</sha1>
+    <format>Log</format>
+    <private>true</private>
+  </file>
+</files>
